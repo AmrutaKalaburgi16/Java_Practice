@@ -48,7 +48,7 @@ public class FirstApplication {
         frame.add(pass);
         frame.add(button);
         frame.add(textPane);
-        button.addActionListener(new ActionListener() {
+        button.addActionListener(qnew ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 String name = text.getText();
