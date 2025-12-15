@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495cadf4-70b4-44a0-b373-f0a01aa639b5" name="Changes" comment="JAVA SWING First Program" />
+    <list default="true" id="495cadf4-70b4-44a0-b373-f0a01aa639b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_swing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloDemo.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +48,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="HelloDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FirstApplication" />
+      <option name="MAIN_CLASS_NAME" value="HelloDemo" />
       <module name="Java_swing" />
       <method v="2">
         <option name="Make" enabled="true" />
